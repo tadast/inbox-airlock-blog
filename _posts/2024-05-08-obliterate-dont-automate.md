@@ -5,7 +5,7 @@ tags: Opinion Essay Artificial-intelligence
 author: Tadas
 ---
 
-<small>_(This short essay was originally shared on LinkedIn by the Inbox Airlock founder [Tadas](https://www.linkedin.com/in/tamosauskas) )_</small>
+<small>_(This short essay was originally shared on LinkedIn by the [Inbox Airlock](https://www.inboxairlock.com) founder [Tadas](https://www.linkedin.com/in/tamosauskas) )_</small>
 
 With AI making it increasingly easier to build online products, there are more makers than ever crafting online tools. However, while the technical aspects of building have become easier, overall product development seems to have remained as challenging.
 

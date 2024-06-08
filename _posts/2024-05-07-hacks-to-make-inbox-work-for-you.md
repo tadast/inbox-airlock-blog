@@ -5,7 +5,7 @@ tags: Email-productivity Hacks
 author: Tadas
 ---
 
-<small>_(These tips were originally shared on LinkedIn by the Inbox Airlock founder [Tadas](https://www.linkedin.com/in/tamosauskas) )_</small>
+<small>_(These tips were originally shared on LinkedIn by the [Inbox Airlock](https://www.inboxairlock.com) founder [Tadas](https://www.linkedin.com/in/tamosauskas) )_</small>
 
 In random order:
 
