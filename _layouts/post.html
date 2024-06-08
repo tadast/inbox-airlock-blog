@@ -12,9 +12,12 @@ layout: default
       <i class="text-xs fas fa-tags"></i>
     {% for tag in page.tags %}
       <div class="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-indigo-100 text-indigo-800">
-        <a class="!no-underline" href="{{site.baseurl}}/tag#{{ tag }}">{{ tag }}</a>
+        <a class="!no-underline" href="/tag#{{ tag }}">{{ tag }}</a>
       </div>
     {% endfor %}
+    {% endif %}
+    {% if page.author %}
+      <div class="text-xs py-2 text-gray-500">By {{ page.author }}</div>
     {% endif %}
   </div>
   {{content}}

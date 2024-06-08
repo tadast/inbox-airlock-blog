@@ -34,8 +34,8 @@ google-scholar: false
 email: hello@inboxairlock.com
 
 # footer information
-footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg: "Inbox Airlock - Keep your inbox clear from unwanted email"
+footer-msg-link: https://www.inboxairlock.com
 
 # google analytics
 google-analytics: false
