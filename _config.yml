@@ -43,3 +43,4 @@ google-analytics: false
 # jekyll plugins - no need to change
 plugins:
     - jekyll-seo-tag
+    - jekyll-sitemap
