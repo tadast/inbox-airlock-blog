@@ -15,22 +15,24 @@ This is a free albeit limited solution, as it does not automatically catch all c
 
 Identify keywords or phrases common in cold outreach emails. This could include terms like “introducing,” “opportunity,” “business,” “collaboration,” or specific phrases like “just following up” or “reaching out.”
 
-Step 2: Set Up Filters in Gmail
+## Step 2: Set Up Filters in Gmail
 
-	1.	Open Gmail, click the settings gear icon, then select See all settings.
-	2.	Go to the Filters and Blocked Addresses tab and click Create a new filter.
-	3.	In the "Has the words" field, add your chosen keywords or phrases, separated by `OR` (e.g., `introducing OR opportunity OR "just following up"`).
-	4.	Click Create filter with this search, and in the next menu, check Apply the label.
-	5.	Choose an existing label or create a new one, such as “Cold Outreach.”
-	6.	Save by clicking Create filter.
+1.	Open Gmail, click the settings gear icon, then select See all settings.
+2.	Go to the Filters and Blocked Addresses tab and click Create a new filter.
+3.	In the "Has the words" field, add your chosen keywords or phrases, separated by `OR` (e.g., `introducing OR opportunity OR "just following up"`).
+4.	Click Create filter with this search, and in the next menu, check Apply the label.
+5.	Choose an existing label or create a new one, such as “Cold Outreach.”
+6.	Save by clicking Create filter.
 
-Step 3: Adjust as Needed
+## Step 3: Adjust as Needed
 
 As you encounter new types of outreach emails, add relevant keywords to your filter to improve its effectiveness. You can edit the filter under Filters and Blocked Addresses anytime.
 
-Step 4: Automatically archive Cold Outreach
+## Step 4: Automatically archive Cold Outreach
 
-Observe how the filters perform
+Observe how the filters perform. Once you're happy, go to the filter's settings like described above, then click Continue and check "Skip the Inbox (Archive it)". Fear not, archiving does not delete any emails.
+
+It will stop Cold Outreach from showing in your main Inbox, but you can still find them under the "Cold Outreach" label.
 
 # Approach 2: Use a dedicated tool
 
